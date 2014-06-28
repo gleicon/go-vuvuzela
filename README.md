@@ -1,7 +1,8 @@
 # vuvuzela proxy
 
-    redirect and inject vuvuzela on pages that are not vuvuzela enabled.
-    check it at http://vuvuzela.buildfactory.me
+redirect and inject vuvuzela on pages that are not vuvuzela enabled.
+
+check it at http://vuvuzela.buildfactory.me
 
 ## Preparing the environment
 
